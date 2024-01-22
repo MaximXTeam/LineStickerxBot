@@ -3,6 +3,12 @@
   **LINE/Kakaotalk Stickers Request Bot**
 <div align="center">
  
+  <sub>
+    
+ *Please hit 🌟 Star for this project on Github if you like this bot!* 
+  </sub>
+
+  
   [<img width="300" alt="image" src="https://telegra.ph/file/49f8504623eacfea96e12.png">](https://telegram.me/LineStickerxBot) </div>
 
 [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker) [![Bot](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/LineStickerxBot) [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) 
@@ -203,5 +209,7 @@ Kakaotalk Store ステッカーシェアリンクをコピーして [@LineSticke
   Repository Developed by **[Shinei](https://github.com/Shineii86)**
 
 リポジトリの開発者: **[シンエイ](https://github.com/Shineii86)**
+
+</sub>
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3.0-blue.svg)](https://github.com/MaximXTeam/LineStickerxBot/blob/main/LICENSE)
