@@ -28,7 +28,7 @@
 [🇬🇧] **1. Visit Line Store:**
 > Open your preferred browser and go to the Line Store website: https://store.line.me
 
-[🇯🇵] **1. ライン ストアを訪れる:**
+[🇯🇵] **一. ライン ストアを訪れる:**
 > お好みのブラウザを開き、ライン ストアのウェブサイトにアクセスしてください：https://store.line.me
 <div align="center">
  
@@ -46,7 +46,7 @@
 [🇬🇧] **3. Select Sticker Set:**
 > Click on the sticker set you want to share. This will take you to the detailed page for that particular set.
 
-[🇯🇵] **3. ステッカーセットの選択:**
+[🇯🇵] **三. ステッカーセットの選択:**
 > 共有したいステッカーセットを選択してください。これにより、その特定のセットの詳細ページに移動します。
 <div align="center">
  
@@ -55,7 +55,7 @@
 [🇬🇧] **4. Copy Sticker Link:**
 > Look for the option to share or copy the link. On the Line Store, it's often labeled as `Share` or `Copy Link`. Click on it to copy the link to your clipboard.
 
-[🇯🇵] **4. ステッカーリンクのコピー:**
+[🇯🇵] **四. ステッカーリンクのコピー:**
 > 共有またはリンクをコピーするオプションを探してください。Line Storeでは、これがしばしば「共有」または「リンクのコピー」として表示されます。それをクリックして、リンクをクリップボードにコピーします。
 <div align="center">
  
@@ -65,7 +65,7 @@
 > Open your Telegram app and find the chat with [@LineStickerxBot](https://telegram.me/LineStickerxBot)
 . If you haven't added the bot, you can search for it and start a chat.
 
-[🇯🇵] ５. **[@LineStickerxBot](https://telegram.me/LineStickerxBot)を開く：**
+[🇯🇵] **五. [@LineStickerxBot](https://telegram.me/LineStickerxBot)を開く：**
 > あなたのTelegramアプリを開いて、[@LineStickerxBot](https://telegram.me/LineStickerxBot) とのチャットを見つけてください。
 （ボットを追加していない場合は検索してチャットを開始できます。)
 <div align="center">
@@ -76,7 +76,7 @@
 > In the chat with [@LineStickerxBot](https://telegram.me/LineStickerxBot)
 , paste the copied link. You can do this by pressing and holding in the text input field, then selecting `Paste`. to
 
-[🇯🇵] **6. ステッカーリンクを送信:**
+[🇯🇵] **六. ステッカーリンクを送信:**
 > [@LineStickerxBot](https://telegram.me/LineStickerxBot) とのチャットで、コピーしたリンクを貼り付けてください。これは、テキスト入力フィールドで押し続け、`貼り付け`を選択することで行えます。
 <div align="center">
  
@@ -85,14 +85,14 @@
 [🇬🇧] **7. Send to Bot:**
 > After pasting the link, send it to [@LineStickerxBot](https://telegram.me/LineStickerxBot) by pressing the send button.
 
-[🇯🇵] **7. ボットに送信:**
+[🇯🇵] **七. ボットに送信:**
 > リンクを貼り付けたら、送信ボタンを押して[@LineStickerxBot](https://telegram.me/LineStickerxBot) に送信してください。
 
 [🇬🇧] **8. Done:**
 > Regarding the stickers links you shared in our bot [@LineStickerxBot](https://telegram.me/LineStickerxBot)
 , all those stickers will be available on our [@MaximXSticker](https://telegram.me/MaximXSticker) Telegram Channel. Please be patient, as **I'm the only person handling the editing and uploading of these stickers, and it might take some time.**
 
-[🇯🇵] **8. 完了:**
+[🇯🇵] **八. 完了:**
 > 当たり前のことだが、[私たちのボット@LineStickerxBot](https://telegram.me/LineStickerxBot)で共有されたステッカーリンクに関して、それらのステッカーはすべて 私たちの [@MaximXSticker](https://telegram.me/MaximXSticker)テレグラムチャンネルで利用可能になります。お待ちいただく必要がありますが、**これらのステッカーの編集とアップロードは私一人で行っており、それには時間がかかるかもしれません。**
 <div align="center">
 
@@ -182,7 +182,7 @@ Kakaotalk Store ステッカーシェアリンクをコピーして [@LineSticke
 **9.** *Done, Regarding the stickers links you shared in our bot [@LineStickerxBot](https://telegram.me/LineStickerxBot)
 , all those stickers will be available on our [@MaximXSticker](https://telegram.me/MaximXSticker) Telegram Channel. Please be patient, as **I'm the only person handling the editing and uploading of these stickers, and it might take some time.***
 
-**8.** *完了 当たり前のことだが、[私たちのボット@LineStickerxBot](https://telegram.me/LineStickerxBot)で共有されたステッカーリンクに関して、それらのステッカーはすべて 私たちの [@MaximXSticker](https://telegram.me/MaximXSticker)テレグラムチャンネルで利用可能になります。お待ちいただく必要がありますが、**これらのステッカーの編集とアップロードは私一人で行っており、それには時間がかかるかもしれません。***
+**九.** *完了 当たり前のことだが、[私たちのボット@LineStickerxBot](https://telegram.me/LineStickerxBot)で共有されたステッカーリンクに関して、それらのステッカーはすべて 私たちの [@MaximXSticker](https://telegram.me/MaximXSticker)テレグラムチャンネルで利用可能になります。お待ちいただく必要がありますが、**これらのステッカーの編集とアップロードは私一人で行っており、それには時間がかかるかもしれません。***
 <div align="center">
 
 [<img width="250" alt="image" src="https://telegra.ph/file/8505ed9b60d6623214667.jpg">](https://telegram.me/LineStickerxBot) </div>
@@ -194,7 +194,7 @@ Kakaotalk Store ステッカーシェアリンクをコピーして [@LineSticke
 
 **Special Thanks:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) for cute stickers.
 <br>
-  **スペシャルサンクス:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) かわいいステッカーのために。
+**スペシャルサンクス:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) かわいいステッカーのために。
 
 ---
 
