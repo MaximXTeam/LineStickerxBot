@@ -15,9 +15,15 @@
 
 ---
 
-[🇬🇧] **How to Copy a Line Store Sticker Link and Send to [@LineStickerxBot](https://telegram.me/LineStickerxBot) (From Any Browser)**
+<details> 
+  <summary><b> 
+    
+[🇬🇧] How to Copy a Line Store Sticker Link And Send to [@LineStickerxBot](https://telegram.me/LineStickerxBot) (From Any Browser) 
 
-[🇯🇵] **ラインストアのステッカーリンクをコピーして、それを [@LineStickerxBot](https://telegram.me/LineStickerxBot) に送る方法（どのブラウザからでも）**
+[🇯🇵] ラインストアのステッカーリンクをコピーして、それを [@LineStickerxBot](https://telegram.me/LineStickerxBot) に送る方法（どのブラウザからでも
+
+   </b>
+ </summary>
 
 [🇬🇧] **1. Visit Line Store:**
 > Open your preferred browser and go to the Line Store website: https://store.line.me
@@ -91,6 +97,17 @@
 <div align="center">
 
   [<img width="250" alt="image" src="https://telegra.ph/file/b7a0188857694bc6c76d7.jpg">](https://telegram.me/LineStickerxBot) </div>
+
+</details>
+<details> 
+  <summary><b>
+
+  
+  </b>
+  </summary>
+
+  
+</details>
 
 ---
 
